@@ -16,4 +16,4 @@ This project is licensed under the MIT License.
 
 **Contact**
 
-For inquiries, reach out to: your-email@example.com
+For inquiries, reach out to: contact@airborne.com

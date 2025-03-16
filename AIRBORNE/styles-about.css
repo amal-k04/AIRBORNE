@@ -1,0 +1,250 @@
+body{
+    background-color: #f8f9fa;
+}
+
+
+
+
+.head{
+    color: black;
+    margin-left: 150px;
+    margin-top: 50px;
+    
+}
+
+.head-color{
+    color: #Ea580c;
+}
+
+.top-bar{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    background-color: #ffffff;
+
+}
+
+.butt{
+    margin-right: 75px;
+}
+
+.butt-bar{
+    color: black;
+    margin-top: 50px;
+    margin-left: 0px;
+    margin-right: 50px;
+    padding:5px 20px;
+    height: 50px;
+    font-size: x-large;
+    background-color: transparent;
+    border-radius: 40px;
+    border-color: transparent;
+    
+    
+}
+
+.main-box{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 1920px;
+    width: 1381px;
+    border:2px solid white;
+    box-shadow: 2px 1px 9px #Ea580c;
+    border-radius: 30px;
+    padding: 34px;
+    margin-top: 90px;
+    background-color: #ffffff;
+
+}
+
+.pa{
+    font-size: 25px;
+    color: #4b5565;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.sec-head{
+    font-size: 40px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.sim-button-box{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    height: 380px;
+    
+}
+
+.sim-button{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 50px;
+    padding:24px;
+    height: 220px;
+    width: 390px;
+    font-size: x-large;
+    background-color: #ffc971;
+    border-radius: 40px;
+    border-color: transparent;
+    color: black;
+    font-weight: bold;
+    box-shadow: 2px 1px 9px gray;
+}
+
+.leader-box{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 50px;
+    height: 225px;
+    
+}
+
+.lead{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border:5px solid #Ea580c;
+    box-shadow: 2px 1px 10px gray;
+}
+
+
+.leader{
+    
+    height: 150px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    
+
+}
+
+.location-box{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 50px;
+    height: 225px;
+    
+}
+
+.location{
+    background-color: rgb(239, 239, 239);
+    border: 1px solid white;
+    width: 500px;
+    height: 230px;
+    padding: 10px 20px 20px 50px;
+    border-radius: 30px;
+    font-size: 23px;
+    color: #4b5565;
+    margin: 10px;
+}
+
+.touch-box{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 50px;
+    height: 225px;
+}
+
+.touch{
+    background-color: #fff7ed;
+    border: 1px solid white;
+    width: 300px;
+    height: 130px;
+    padding: 10px 20px 20px 50px;
+    border-radius: 20px;
+    font-size: 23px;
+    margin: 10px;
+}
+
+.butt-bar:hover{
+    color: #Ea580c;
+}
+
+.touch:hover{
+    background-color: #ffe3b6;
+}
+
+.sim-button:hover{
+    background-color: #ffbd6c;
+}
+
+.footer {
+    margin-top: 30px;
+    background-color: #333;
+    display: flex;
+    color: #fff;
+    text-align: center;
+    justify-content: space-around;
+    font-size: 20px;
+    height: 369px;
+    background-size: cover;
+    border-radius: 5px;
+}
+.footer .logo {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.footer .logo span {
+    color: #ff6600;
+}
+.footer .contact-info, .footer .links {
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+.footer .contact-info p, .footer .links p {
+    margin: 5px 0;
+}
+.footer .links {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.footer .links div {
+    text-align: left;
+}
+.footer .links div h4 {
+    margin-bottom: 10px;
+}
+.footer .links div a {
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+    margin: 5px 0;
+}
+.footer .social-media {
+    margin-top: 75px;
+}
+.footer .social-media a {
+    color: #ffffff;
+    margin: 0 ;}
+
+.logo{
+    margin-top: 50px;
+    margin-left: 30px;
+    font-size: 50px;
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+    width: 240px;
+    height: 100px;
+}
+
+.h:hover{
+    color: #Ea580c;
+}

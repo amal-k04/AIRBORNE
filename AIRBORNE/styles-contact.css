@@ -1,0 +1,156 @@
+body{
+    background-color: #f8f9fa;
+    text-align: center;
+}
+
+
+
+
+.head{
+    color: black;
+    margin-left: 150px;
+    margin-top: 50px;
+    
+}
+
+.head-color{
+    color: #Ea580c;
+}
+
+.top-bar{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    background-color: #ffffff;
+
+}
+
+.butt-bar:hover{
+    color: #Ea580c;
+}
+
+.butt{
+    margin-right: 75px;
+}
+
+.butt-bar{
+    color: black;
+    margin-top: 50px;
+    margin-left: 0px;
+    margin-right: 50px;
+    padding:5px 20px;
+    height: 50px;
+    font-size: x-large;
+    background-color: transparent;
+    border-radius: 40px;
+    border-color: transparent;
+    
+}
+
+.co-main{
+    margin-top: 60px;
+    font-size: 28px;
+}
+
+.touch-box{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 50px;
+    height: 225px;
+}
+
+.touch{
+    display: flex;
+    background-color: white;
+    border: 1px solid white;
+    width: 400px;
+    height: 110px;
+    padding: 10px 20px 20px 50px;
+    border-radius: 20px;
+    font-size: 23px;
+    margin: 10px;
+    box-shadow: 2px 2px 9px #d6d7d8;
+}
+img{
+    width: 45px;
+    height: 35px;
+    padding-top: 38px;
+    padding-right: 30px;
+    padding-bottom: 0px;
+}
+
+.touch:hover{
+    background-color: #fff7ed;
+}
+
+.footer {
+    background-color: #333;
+    display: flex;
+    color: #fff;
+    text-align: center;
+    justify-content: space-around;
+    font-size: 20px;
+    height: 369px;
+    width:initial;
+    background-size: cover;
+    border-radius: 5px;
+    
+}
+
+.footer .logo {
+    margin-top: 25px;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.footer .logo span {
+    color: #ff6600;
+}
+.footer .contact-info, .footer .links {
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+.footer .contact-info p, .footer .links p {
+    margin: 5px 0;
+}
+.footer .links {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.footer .links div {
+    text-align: left;
+}
+.footer .links div h4 {
+    margin-bottom: 10px;
+}
+.footer .links div a {
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+    margin: 5px 0;
+}
+.footer .social-media {
+    margin-top: 75px;
+}
+.footer .social-media a {
+    color: #ffffff;
+    margin: 0 ;}
+
+.logo{
+    margin-top: 50px;
+    margin-left: 30px;
+    font-size: 50px;
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+    width: 240px;
+    height: 100px;
+}
+
+.h:hover{
+    color: #Ea580c;
+}

@@ -2,28 +2,18 @@
 
 **Overview**
 
-This is a dynamic fight-selling website that allows users to browse, book, and purchase tickets for various fighting events, such as boxing matches, MMA fights, and wrestling events. The platform provides real-time updates, secure payments, and an intuitive user experience.
+This is a dynamic fight-selling website, we specialize in connecting you with the best flight deals worldwide. Whether you're planning a relaxing vacation, a business trip, or a last-minute getaway, you can purchase fast, and with affordable price.
 
 **Features**
 
-*  User Authentication: Secure login and registration system.
-*  
+* ✈️ <b>Exclusive Discounts</b> on top airlines.
+* 🔍 <b>Advanced Search Tools</b> to help you find the perfect itinerary.
+* 🤝 <b>Trusted Partnerships</b> with major airlines to ensure secure service.
 
- Event Listings: Browse and search for upcoming fight events.
-
-Ticket Booking: Purchase tickets with different seat categories.
-
-Payment Integration: Secure online payments with multiple options.
-
-Live Updates: Real-time fight updates and event notifications.
-
-Admin Dashboard: Manage events, tickets, and user data.
-
-
-License
+**License**
 
 This project is licensed under the MIT License.
 
-Contact
+**Contact**
 
 For inquiries, reach out to: your-email@example.com
